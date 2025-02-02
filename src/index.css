@@ -1,0 +1,30 @@
+body {
+  background-color: darkkhaki;
+}
+
+div {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 8px;
+  margin-right: 5px;
+  border-radius: 15px;
+}
+
+button{
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-right: 50px;
+}
+
+li {
+  margin: 10px;;
+}
